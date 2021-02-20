@@ -3,21 +3,21 @@ public class Main {
     public static void main(String[] args) {
 
         //Para escrever na tela
-        System.out.print("Olá Mundo");
-        System.out.print("Olá Mundo");
-        System.out.println("Olá Mundo");
-        System.out.println("Olá Mundo");
+        System.out.print("Ola Mundo");
+        System.out.print("Ola Mundo");
+        System.out.println("Ola Mundo");
+        System.out.println("Ola Mundo");
 
-        //Padrão de criação de variavel
+        //Padrão de cria�ao de variavel
             //_nomeVariavel
             //nomeVariavel**
             //nome_Variavel
             //nomeVariavel2
 
         //Variaveis
-        int inteiro = 5;  //Somente números inteiro
-        float  decimalLimitado;    //Número decimais limitados
-        double  decimalIlimitado;  //Números decimais ilimitados
+        int inteiro = 5;  //Somente numeros inteiro
+        float  decimalLimitado;    //Numeros decimais limitados
+        double  decimalIlimitado;  //Numeros decimais ilimitados
         String  texto;             //Texto
 
 
@@ -50,10 +50,10 @@ public class Main {
                 break;
         }
 
-        //Estrutura de repetição
+        //Estrutura de repeticao
 
         int i = 0;
-        for(i = 0; i <= 10; i = i+2){  //for(variavel;lógica;incremento)
+        for(i = 0; i <= 10; i = i+2){  //for(variavel;logica;incremento)
             System.out.println(i);
 
         };
@@ -69,8 +69,7 @@ public class Main {
             System.out.println(i);
         }while(i <= 10);
 
-        //Comentários de código
-
+        //Comentarios
         //
         //
         //
@@ -79,12 +78,6 @@ public class Main {
 
 
          */
-
-
-
-
-
-
 
 
     }
