@@ -17,7 +17,9 @@ public class Surra {
 		
 		System.out.print("Média " +notaDasProvas / quantidadeDeAlunos);
 		
-
+		in.close();
+		
+		
 	}
 
 }
